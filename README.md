@@ -7,7 +7,7 @@ This is the implementation of FABRIK and PSO algorithm to solve inverse kinemati
 FABRIK
 </h2>
 <p>
-It is implemented without axis constraint for all the joints.
+It is implemented without axis constraint for any joint.
 </p>
 
 <h2>
